@@ -1,8 +1,5 @@
 ### Welcome to my Github!
 
-<!--
-**DecSloan/DecSloan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-
-- 🌱 I’m currently learning!
-
+**Below are my pinned repositories, feel free to take a look!**
